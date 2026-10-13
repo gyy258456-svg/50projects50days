@@ -1,0 +1,65 @@
+{
+  "file": "/workspace/50projects50days/dont-define-yourself/story-test-12s/exports/story-test-12s.mp4",
+  "seek_checks": [
+    {
+      "time": 2.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 4.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 6.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 9.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 11.95,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 0,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "duration": 12,
+    "width": 1920,
+    "height": 1080,
+    "codecSupport": "probably"
+  },
+  "before_continuous_playback_quality": {
+    "total": 624,
+    "dropped": 0,
+    "corrupted": 0
+  },
+  "continuous_playback_quality": {
+    "total": 716,
+    "dropped": 1,
+    "corrupted": 0
+  },
+  "passed": true,
+  "complete_browser_playback": {
+    "ended": true,
+    "currentTime": 12,
+    "readyState": 4,
+    "error": null,
+    "playbackQuality": {
+      "total": 1340,
+      "dropped": 1,
+      "corrupted": 0
+    }
+  },
+  "browser_errors": [],
+  "elapsed_seconds": 13.972
+}

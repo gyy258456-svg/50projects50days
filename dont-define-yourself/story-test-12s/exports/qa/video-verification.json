@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "duration": "12.000000",
+        "nb_frames": "720",
+        "nb_read_frames": "720"
+      }
+    ],
+    "format": {
+      "duration": "12.000000",
+      "size": "5134727"
+    }
+  },
+  "complete_decode": true,
+  "diagnostic_findings_for_review": [
+    "[freezedetect @ 0x7fe184002bc0] lavfi.freezedetect.freeze_start: 0",
+    "[freezedetect @ 0x7fe184002bc0] lavfi.freezedetect.freeze_end: 0.516667"
+  ],
+  "bytes": 5134727,
+  "sha256": "53ff6cb0b7c4c9c9f24475424a7934f0b4efb045a4cc3eba71ac534463b26eb0"
+}
