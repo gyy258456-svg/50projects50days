@@ -1,0 +1,15 @@
+{
+  "actual_decoded_opening_frames": 90,
+  "unique_roi_frames": 90,
+  "first_to_last_changed_bbox": [
+    0,
+    0,
+    440,
+    320
+  ],
+  "first_to_last_mean_abs_delta": 1.6914630681818181,
+  "min_consecutive_roi_delta": 0.010359848484848484,
+  "max_consecutive_roi_delta": 0.4666832386363636,
+  "consecutive_identical_roi_frames": 0,
+  "explanation": "Global freezedetect threshold flags the intentionally sparse dark opening; actual decoded central ROI contains motion and reveals forming boundaries."
+}

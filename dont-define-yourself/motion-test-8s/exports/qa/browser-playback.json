@@ -1,0 +1,45 @@
+{
+  "file": "/workspace/50projects50days/dont-define-yourself/motion-test-8s/exports/motion-test-8s.mp4",
+  "seek_checks": [
+    {
+      "time": 2.2,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 5.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 7.95,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 0,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "duration": 8,
+    "width": 1920,
+    "height": 1080,
+    "codecSupport": "probably"
+  },
+  "passed": true,
+  "complete_browser_playback": {
+    "ended": true,
+    "currentTime": 8,
+    "readyState": 4,
+    "error": null,
+    "playbackQuality": {
+      "total": 934,
+      "dropped": 0,
+      "corrupted": 0
+    }
+  },
+  "browser_errors": [],
+  "elapsed_seconds": 9.82
+}

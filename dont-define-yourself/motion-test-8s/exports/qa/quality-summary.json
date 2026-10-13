@@ -1,0 +1,106 @@
+{
+  "status": "passed",
+  "capture": "native-canvas-PNG",
+  "video_bytes": 3890303,
+  "video_sha256": "eb96ff31bbdd2b5d53986654a6f5e3f2381e81b22a9935e09d52945d30fd76cc",
+  "min_mean_luma": 16.39417,
+  "max_mean_luma": 21.28778,
+  "max_mean_abs_delta": 0.91757,
+  "max_delta_frame": 333,
+  "median_mean_abs_delta": 0.1336,
+  "duplicate_consecutive_frames": 0,
+  "video_diagnostic_findings": [
+    "[freezedetect @ 0x7f8848002bc0] lavfi.freezedetect.freeze_start: 0",
+    "[freezedetect @ 0x7f8848002bc0] lavfi.freezedetect.freeze_end: 1.483333"
+  ],
+  "geometry_final_visible": 32,
+  "geometry_final_disconnected": 11,
+  "windows": {
+    "opening_inward": {
+      "frames": 13,
+      "luma_range": [
+        18.36917,
+        18.50354
+      ],
+      "delta_range": [
+        0.08944,
+        0.13771
+      ],
+      "largest_deltas": [
+        {
+          "frame": 138,
+          "time": 2.3,
+          "delta": 0.13771
+        },
+        {
+          "frame": 137,
+          "time": 2.283333333333333,
+          "delta": 0.12743
+        },
+        {
+          "frame": 136,
+          "time": 2.2666666666666666,
+          "delta": 0.12113
+        },
+        {
+          "frame": 135,
+          "time": 2.25,
+          "delta": 0.11519
+        },
+        {
+          "frame": 134,
+          "time": 2.2333333333333334,
+          "delta": 0.11211
+        },
+        {
+          "frame": 132,
+          "time": 2.2,
+          "delta": 0.10502
+        }
+      ]
+    },
+    "compression_release": {
+      "frames": 61,
+      "luma_range": [
+        17.83243,
+        20.40938
+      ],
+      "delta_range": [
+        0.07569,
+        0.91757
+      ],
+      "largest_deltas": [
+        {
+          "frame": 333,
+          "time": 5.55,
+          "delta": 0.91757
+        },
+        {
+          "frame": 331,
+          "time": 5.516666666666667,
+          "delta": 0.87706
+        },
+        {
+          "frame": 340,
+          "time": 5.666666666666667,
+          "delta": 0.80551
+        },
+        {
+          "frame": 358,
+          "time": 5.966666666666667,
+          "delta": 0.68333
+        },
+        {
+          "frame": 334,
+          "time": 5.566666666666666,
+          "delta": 0.67178
+        },
+        {
+          "frame": 307,
+          "time": 5.116666666666666,
+          "delta": 0.65775
+        }
+      ]
+    }
+  }
+}
