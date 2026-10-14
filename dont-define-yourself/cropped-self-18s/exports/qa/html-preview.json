@@ -1,0 +1,27 @@
+{
+  "live_play_pause": {
+    "time": 1.0332999999999999,
+    "button": "播放"
+  },
+  "live_seek": {
+    "time": 7.500000015,
+    "stage": "new-place-same-pattern"
+  },
+  "passed": true,
+  "actual_player_metadata": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 18,
+    "src": "http://127.0.0.1:46415/exports/cropped-self-18s.mp4"
+  },
+  "actual_player_played": {
+    "currentTime": 0.308385,
+    "error": null,
+    "readyState": 4
+  },
+  "served_over_local_HTTP": true,
+  "file_protocol_check": "blocked by cloud Chromium administrator policy; not claimed as runtime verified",
+  "browser_errors": [],
+  "external_requests": [],
+  "elapsed_seconds": 4.075
+}

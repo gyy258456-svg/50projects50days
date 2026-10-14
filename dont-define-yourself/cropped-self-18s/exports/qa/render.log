@@ -1,0 +1,24 @@
+[   1.27s] Chromium composition loaded; fonts ready; native 1920×1080 Canvas confirmed.
+[   1.85s] Out-of-order deterministic seek check passed (6.00s → 13.00s → 6.00s).
+[   7.76s] Geometric continuity, persistent element identities and camera perspective basis checked.
+[  19.63s] Rendered 60/1080 frames (1.0s).
+[  32.94s] Rendered 120/1080 frames (2.0s).
+[  47.17s] Rendered 180/1080 frames (3.0s).
+[  59.73s] Rendered 240/1080 frames (4.0s).
+[  71.29s] Rendered 300/1080 frames (5.0s).
+[  82.05s] Rendered 360/1080 frames (6.0s).
+[  91.82s] Rendered 420/1080 frames (7.0s).
+[ 102.17s] Rendered 480/1080 frames (8.0s).
+[ 113.94s] Rendered 540/1080 frames (9.0s).
+[ 126.25s] Rendered 600/1080 frames (10.0s).
+[ 139.99s] Rendered 660/1080 frames (11.0s).
+[ 152.28s] Rendered 720/1080 frames (12.0s).
+[ 164.93s] Rendered 780/1080 frames (13.0s).
+[ 177.23s] Rendered 840/1080 frames (14.0s).
+[ 189.65s] Rendered 900/1080 frames (15.0s).
+[ 201.61s] Rendered 960/1080 frames (16.0s).
+[ 213.97s] Rendered 1020/1080 frames (17.0s).
+[ 226.02s] Rendered 1080/1080 frames (18.0s).
+[ 227.00s] Actual 1080-frame H.264 encoding completed.
+[ 234.60s] FFprobe and complete video decode passed: 1920×1080 / 60fps / 18.000s / 1080 frames.
+[ 234.62s] PNG keyframes, multi-time storyboard and machine-readable QA report saved.

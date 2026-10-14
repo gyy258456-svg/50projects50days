@@ -1,0 +1,100 @@
+{
+  "file": "/workspace/50projects50days/dont-define-yourself/cropped-self-18s/exports/cropped-self-18s.mp4",
+  "seek_checks": [
+    {
+      "time": 1.6,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 3,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 5.4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 6,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 8.3,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 9,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 10.4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 12.4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 14.4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 15.6,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 17.5,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 17.95,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 0,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "duration": 18,
+    "width": 1920,
+    "height": 1080,
+    "codecSupport": "probably"
+  },
+  "before_continuous_playback_quality": {
+    "total": 1598,
+    "dropped": 0,
+    "corrupted": 0
+  },
+  "continuous_playback_quality": {
+    "total": 1076,
+    "dropped": 1,
+    "corrupted": 0
+  },
+  "passed": true,
+  "complete_browser_playback": {
+    "ended": true,
+    "currentTime": 18,
+    "readyState": 4,
+    "error": null,
+    "playbackQuality": {
+      "total": 2674,
+      "dropped": 1,
+      "corrupted": 0
+    }
+  },
+  "browser_errors": [],
+  "elapsed_seconds": 21.764
+}
