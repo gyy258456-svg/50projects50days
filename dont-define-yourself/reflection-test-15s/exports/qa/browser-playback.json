@@ -1,0 +1,85 @@
+{
+  "file": "/workspace/50projects50days/dont-define-yourself/reflection-test-15s/exports/reflection-test-15s.mp4",
+  "seek_checks": [
+    {
+      "time": 1.65,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 2.6,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 6.4,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 7,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 9,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 10.6,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 13.15,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 14.95,
+      "readyState": 4,
+      "error": null
+    },
+    {
+      "time": 0,
+      "readyState": 4,
+      "error": null
+    }
+  ],
+  "metadata": {
+    "duration": 15,
+    "width": 1920,
+    "height": 1080,
+    "codecSupport": "probably"
+  },
+  "before_continuous_playback_quality": {
+    "total": 1204,
+    "dropped": 0,
+    "corrupted": 0
+  },
+  "continuous_playback_quality": {
+    "total": 896,
+    "dropped": 1,
+    "corrupted": 0
+  },
+  "passed": true,
+  "complete_browser_playback": {
+    "ended": true,
+    "currentTime": 15,
+    "readyState": 4,
+    "error": null,
+    "playbackQuality": {
+      "total": 2100,
+      "dropped": 1,
+      "corrupted": 0
+    }
+  },
+  "browser_errors": [],
+  "elapsed_seconds": 18.208
+}

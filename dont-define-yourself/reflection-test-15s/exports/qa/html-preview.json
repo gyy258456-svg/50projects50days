@@ -1,0 +1,27 @@
+{
+  "live_play_pause": {
+    "time": 0.6000000000000001,
+    "button": "播放"
+  },
+  "live_seek": {
+    "time": 6.4000000128,
+    "stage": "different-conditions-different-performance"
+  },
+  "passed": true,
+  "actual_player_metadata": {
+    "width": 1920,
+    "height": 1080,
+    "duration": 15,
+    "src": "http://127.0.0.1:43963/exports/reflection-test-15s.mp4"
+  },
+  "actual_player_played": {
+    "currentTime": 0.308817,
+    "error": null,
+    "readyState": 4
+  },
+  "served_over_local_HTTP": true,
+  "file_protocol_check": "blocked by cloud Chromium administrator policy; not claimed as runtime verified",
+  "browser_errors": [],
+  "external_requests": [],
+  "elapsed_seconds": 2.181
+}

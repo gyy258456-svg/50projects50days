@@ -1,0 +1,28 @@
+{
+  "passed": true,
+  "probe": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "60/1",
+        "avg_frame_rate": "60/1",
+        "duration": "15.000000",
+        "nb_frames": "900",
+        "nb_read_frames": "900"
+      }
+    ],
+    "format": {
+      "duration": "15.000000",
+      "size": "6580892"
+    }
+  },
+  "complete_decode": true,
+  "diagnostic_findings_for_review": [],
+  "bytes": 6580892,
+  "sha256": "f99675a7645b08ce637ec03464d1218ab63ebbb3e04e5d059e3adaed53c3385f"
+}
